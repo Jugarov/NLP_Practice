@@ -1,0 +1,6 @@
+{
+  "num_examples": 118964,
+  "vocab_size": 17982,
+  "max_len_encoder": 128,
+  "max_len_decoder": 64
+}
